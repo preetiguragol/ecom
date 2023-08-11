@@ -1,0 +1,57 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+  
+
+
+.page
+{
+    /* background-image: url('../icons/bckground.avif') ; */
+    
+    height:100vH;
+    width:100%;
+    justify-content:center;
+     align-items:center;
+     display:flex;
+}
+.cover
+{
+    background-color: rgba(229, 226, 222, 0.75);
+    width:30em;
+    height:30em; 
+    position:relative;
+    border-radius:1em;
+    
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:space-around;
+    box-shadow:0 0.188em 1.550em rgb(156,156,156);
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-weight:200;
+    /* font-size: 30px; */
+    padding:1em;
+   
+}
+.style-input{
+  width: 100%;
+  padding: 2vh;
+  margin-bottom: 1em;
+  border: 0.06em solid #ccc;
+  border-radius: 0.5em;
+}
+.styling-button{
+ 
+  width: 100%;
+  padding: 0.62em;
+  background-color: #dec5c5;
+  color: #000000;
+  border: none;
+  border-radius: 0.5em;
+  cursor: pointer;
+
+  
+}
+  
+
+

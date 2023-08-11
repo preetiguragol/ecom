@@ -1,0 +1,23 @@
+.men-header{
+    color: rgb(17, 17, 17);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-weight:200;
+    font-size: 30px;
+    
+    
+}
+.men{
+    display:flex;
+    margin-top: 2px;
+    padding-top: 40px;
+}
+.men-header2{
+    padding-left: 44px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-weight:200;
+    font-size: 30px;
+}

@@ -1,0 +1,15 @@
+.about-style{
+    font-family:'Playfair Display',serif ;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+}
+.p-style{
+    font-family:'Playfair Display',serif ;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    padding: 30px;
+   
+    
+}

@@ -1,0 +1,13 @@
+.footer-card{
+    padding:10px;
+    background-color:#dec5c5;
+    color:rgb(0, 0, 0);
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+}   
+.footer-margin{
+    margin-right: 0px;
+}
+.links-style{
+    color:rgba(68, 47, 32, 0.827);
+}

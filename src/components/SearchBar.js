@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 import './SearchBar.css';
-import {BsSearch} from 'react-icons/bs'
+
 const SearchBar = ({ onSearch }) => {
   const [searchQuery, setSearchQuery] = useState('');
 

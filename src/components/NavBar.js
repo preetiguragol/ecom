@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import SearchBar from './SearchBar';
 import './NavBar.css';
-import {TiHome} from 'react-icons/ti';
+
 
 
 const Navbar = () => {

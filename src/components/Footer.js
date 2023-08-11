@@ -22,8 +22,8 @@ const Footer = () => {
       <ol>
       
       <ul><a className='links-style' href='About'>QuickLink</a> </ul>
-      <ul><a className='links-style' href='About'>Men</a> </ul>
-      <ul><a className='links-style' href='About'>Women</a> </ul>
+      <ul><a className='links-style' href='Men'>Men</a> </ul>
+      <ul><a className='links-style' href='Women'>Women</a> </ul>
       </ol>
       <ol>
       <ul><a className='links-style' href='About'>FAQ</a> </ul>
